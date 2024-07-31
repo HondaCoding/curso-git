@@ -1,5 +1,7 @@
 # **[Curso de Git e GitHub - 2023] Pietro Martins De Oliveira - Youtube**
 
+## *Comandos utilizados:*
+
 - **git diff**                         : visualizar alterações (no modo 'unstaged')
 - **git status**                       : ver status atual
 - **git add**                          : passa o arquivo para o modo 'staged'
