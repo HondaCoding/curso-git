@@ -1,2 +1,1 @@
-Blaaslmasldkasd 
-asdasdasa
+Arquivo read me do curso de Git & Github
