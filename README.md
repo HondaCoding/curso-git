@@ -14,8 +14,13 @@
 - **git restore <file>**               : restaura a versao anterior
 - **git restore <file> --staged**      : tira o arquivo do modo staged(nao será comitado)
 
+- **git branch**                       : visualizar em qual branch voce está
+- **git checkout -b <nome-da-branch>** : cria uma nova branch
+- **git checkout <branch>**            : navega para a branch escolhida
 
 - **branch -M main**                   : renomear a branch 'master' para 'main'
 - **git remote add origin <url>**
 - **git remote get url origin**        : indica a url do repository
-- **git push -u origin "main"**        : primeiro push no repository, após o primeiro push basta somente 'git push'
+- **git push -u origin main**          : primeiro push no repository, após o primeiro push basta somente 'git push'
+
+- **git push --set-upstream <nome-branch>** : push de uma nova branch do repository local para o gitHub
