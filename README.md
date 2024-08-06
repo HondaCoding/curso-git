@@ -1,5 +1,7 @@
 # **[Curso de Git e GitHub - 2023] Pietro Martins De Oliveira - Youtube**
-
+## *Extensões necessárias no vscode:*
+- **Git Graph**
+- **Git History**
 ## *Comandos utilizados:*
 
 - **git diff**                         : visualizar alterações (no modo 'unstaged')
