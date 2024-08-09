@@ -23,7 +23,9 @@
 - **branch -M main**                   : renomear a branch 'master' para 'main'
 - **git remote add origin <url>**
 - **git remote get url origin**        : indica a url do repository
-- **git push -u origin main**          : primeiro push no repository, após o primeiro push basta somente 'git push'
+- **git push -u origin main**          : PRIMEIRO push do MAIN no repository, após o primeiro push basta somente 'git push'
 
-- **git push --set-upstream origin "nome-branch"** : push de uma nova branch do repository local para o gitHub
+- **git push origin nome-da-branch**   : push da branch local para o github(nuvem);
+- 
+- **git push --set-upstream origin "nome-branch"** : push QUANDO TEM UMA NOVA BRANCH do repository local para o gitHub
 - **git merge "nome-branch"**          : faz o merge da branch indicada para a branch que se encontra atualmente
