@@ -26,6 +26,6 @@
 - **git push -u origin main**          : PRIMEIRO push do MAIN no repository, após o primeiro push basta somente 'git push'
 
 - **git push origin nome-da-branch**   : push da branch local para o github(nuvem);
-- 
+ 
 - **git push --set-upstream origin "nome-branch"** : push QUANDO TEM UMA NOVA BRANCH do repository local para o gitHub
 - **git merge "nome-branch"**          : faz o merge da branch indicada para a branch que se encontra atualmente
